@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 15)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'Generator'?
+    A. A collection which is unordered and unindexed. No duplicate members.
+    B. A code template for creating objects.
+    C. Used for iterating over a sequence.
+    D. A function that returns an iterator that yields a series of values.
+
+2. What is the definition of 'Lambda'?
+    A. An instance of a class.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A small anonymous function.
+    D. An event that can disrupt the normal flow of a program.
+
+3. What is the definition of 'Variable'?
+    A. A way of organizing related modules.
+    B. A reserved memory location to store values.
+    C. A small anonymous function.
+    D. Used to perform different actions based on different conditions.
+
+4. What is the definition of 'Dictionary'?
+    A. Used for iterating over a sequence.
+    B. A block of code which only runs when it is called.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+5. What is the definition of 'Exception'?
+    A. A reserved memory location to store values.
+    B. A file containing a set of functions you want to include in your application.
+    C. An instance of a class.
+    D. An event that can disrupt the normal flow of a program.
+
+6. What is the definition of 'String'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A collection which is ordered and unchangeable. Allows duplicate members.
+    C. A sequence of characters.
+    D. A concise way to create lists.
+
+7. What is the definition of 'Conditional'?
+    A. A small anonymous function.
+    B. A collection which is ordered and changeable. Allows duplicate members.
+    C. Used to perform different actions based on different conditions.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+8. What is the definition of 'Inheritance'?
+    A. A collection which is ordered and unchangeable. Allows duplicate members.
+    B. A function that returns an iterator that yields a series of values.
+    C. A concise way to create lists.
+    D. A way to form new classes using classes that have already been defined.
+
+9. What is the definition of 'Function'?
+    A. A block of code which only runs when it is called.
+    B. A function that returns an iterator that yields a series of values.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A way of organizing related modules.
+
+10. What is the definition of 'Package'?
+    A. A way of organizing related modules.
+    B. A concise way to create lists.
+    C. A way to form new classes using classes that have already been defined.
+    D. A sequence of characters.
+
+11. What is the definition of 'List Comprehension'?
+    A. A block of code which only runs when it is called.
+    B. A concise way to create lists.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. An event that can disrupt the normal flow of a program.
+
+12. What is the definition of 'Polymorphism'?
+    A. A collection which is unordered, changeable, and indexed. No duplicate members.
+    B. The ability to present the same interface for different underlying forms.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A block of code which only runs when it is called.
+
+13. What is the definition of 'List'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. A collection which is ordered and unchangeable. Allows duplicate members.
+    C. The ability to present the same interface for different underlying forms.
+    D. A collection which is ordered and changeable. Allows duplicate members.
+
+14. What is the definition of 'Loop'?
+    A. Used for iterating over a sequence.
+    B. A block of code which only runs when it is called.
+    C. A small anonymous function.
+    D. A file containing a set of functions you want to include in your application.
+
+15. What is the definition of 'Class'?
+    A. A small anonymous function.
+    B. A collection which is ordered and changeable. Allows duplicate members.
+    C. A code template for creating objects.
+    D. A function that returns an iterator that yields a series of values.
+
+16. What is the definition of 'Module'?
+    A. A block of code which only runs when it is called.
+    B. An event that can disrupt the normal flow of a program.
+    C. A file containing a set of functions you want to include in your application.
+    D. A function that returns an iterator that yields a series of values.
+
+17. What is the definition of 'Decorator'?
+    A. A concise way to create lists.
+    B. A sequence of characters.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. Used to perform different actions based on different conditions.
+
+18. What is the definition of 'Tuple'?
+    A. An instance of a class.
+    B. A collection which is ordered and changeable. Allows duplicate members.
+    C. A block of code which only runs when it is called.
+    D. A collection which is ordered and unchangeable. Allows duplicate members.
+
+19. What is the definition of 'Object'?
+    A. A function that returns an iterator that yields a series of values.
+    B. A code template for creating objects.
+    C. A way to form new classes using classes that have already been defined.
+    D. An instance of a class.
+
+20. What is the definition of 'Set'?
+    A. A concise way to create lists.
+    B. A sequence of characters.
+    C. A file containing a set of functions you want to include in your application.
+    D. A collection which is unordered and unindexed. No duplicate members.
+

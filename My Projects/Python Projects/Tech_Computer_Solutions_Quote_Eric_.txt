@@ -1,0 +1,12 @@
+Tech Computer Solutions - Billing Quote
+=======================================================
+Customer Name: Eric 
+Item            Quantity   Unit Price      Total Price    
+=======================================================
+
+graphics card   1          $999.99         $999.99        
+
+=======================================================
+Subtotal                       $999.99        
+Shipping (3%)                  $30.00         
+Total Amount Due               $1029.99       

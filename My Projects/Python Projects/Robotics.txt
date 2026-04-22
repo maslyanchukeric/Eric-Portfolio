@@ -1,0 +1,11 @@
+Robotics Inc - Billing Quote
+===============================================
+Customer Name: tim
+Robot: Romeo
+Warranty: lifetime (+$1000.00)
+Training Package: yes (+$250.00)
+Healthcare Professional: Yes (-$1750.00)
+===============================================
+Subtotal: $7000.00
+===============================================
+Total with tax: $7490.00

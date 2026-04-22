@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 8)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'Dictionary'?
+    A. A small anonymous function.
+    B. A collection which is unordered, changeable, and indexed. No duplicate members.
+    C. An instance of a class.
+    D. A block of code which only runs when it is called.
+
+2. What is the definition of 'Module'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. A concise way to create lists.
+    C. A way to form new classes using classes that have already been defined.
+    D. A file containing a set of functions you want to include in your application.
+
+3. What is the definition of 'Generator'?
+    A. A function that returns an iterator that yields a series of values.
+    B. Used for iterating over a sequence.
+    C. A concise way to create lists.
+    D. A block of code which only runs when it is called.
+
+4. What is the definition of 'Lambda'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. A collection which is ordered and changeable. Allows duplicate members.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A small anonymous function.
+
+5. What is the definition of 'Polymorphism'?
+    A. A reserved memory location to store values.
+    B. A way of organizing related modules.
+    C. A concise way to create lists.
+    D. The ability to present the same interface for different underlying forms.
+
+6. What is the definition of 'Package'?
+    A. A way of organizing related modules.
+    B. A collection which is ordered and changeable. Allows duplicate members.
+    C. A concise way to create lists.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+7. What is the definition of 'Function'?
+    A. Used for iterating over a sequence.
+    B. A reserved memory location to store values.
+    C. A block of code which only runs when it is called.
+    D. A small anonymous function.
+
+8. What is the definition of 'Decorator'?
+    A. A file containing a set of functions you want to include in your application.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. Used to perform different actions based on different conditions.
+
+9. What is the definition of 'Set'?
+    A. A collection which is ordered and unchangeable. Allows duplicate members.
+    B. Used to perform different actions based on different conditions.
+    C. A file containing a set of functions you want to include in your application.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+10. What is the definition of 'List Comprehension'?
+    A. A file containing a set of functions you want to include in your application.
+    B. An instance of a class.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A concise way to create lists.
+
+11. What is the definition of 'String'?
+    A. A function that returns an iterator that yields a series of values.
+    B. A way of organizing related modules.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A sequence of characters.
+
+12. What is the definition of 'Tuple'?
+    A. A way of organizing related modules.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A collection which is ordered and unchangeable. Allows duplicate members.
+
+13. What is the definition of 'Object'?
+    A. A collection which is unordered and unindexed. No duplicate members.
+    B. An instance of a class.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A small anonymous function.
+
+14. What is the definition of 'Conditional'?
+    A. Used to perform different actions based on different conditions.
+    B. An instance of a class.
+    C. A sequence of characters.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+15. What is the definition of 'Exception'?
+    A. A concise way to create lists.
+    B. A block of code which only runs when it is called.
+    C. A function that returns an iterator that yields a series of values.
+    D. An event that can disrupt the normal flow of a program.
+
+16. What is the definition of 'Class'?
+    A. A sequence of characters.
+    B. A small anonymous function.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. A code template for creating objects.
+
+17. What is the definition of 'Variable'?
+    A. A collection which is ordered and unchangeable. Allows duplicate members.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A concise way to create lists.
+    D. A reserved memory location to store values.
+
+18. What is the definition of 'Loop'?
+    A. A code template for creating objects.
+    B. A file containing a set of functions you want to include in your application.
+    C. Used for iterating over a sequence.
+    D. A way to form new classes using classes that have already been defined.
+
+19. What is the definition of 'Inheritance'?
+    A. A block of code which only runs when it is called.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A way to form new classes using classes that have already been defined.
+    D. A small anonymous function.
+
+20. What is the definition of 'List'?
+    A. A collection which is unordered and unindexed. No duplicate members.
+    B. A small anonymous function.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. An event that can disrupt the normal flow of a program.
+

@@ -1,0 +1,12 @@
+Tech Computer Solutions - Billing Quote
+=========================================
+Customer Name: Eric
+Item            Quantity   Unit Price      Total Price    
+=======================================================
+
+memory          1          $89.99          $89.99         
+
+=======================================================
+Subtotal                       $89.99         
+Shipping (3%)                  $2.70          
+Total Amount Due               $92.69         

@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 6)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'Function'?
+    A. The ability to present the same interface for different underlying forms.
+    B. A block of code which only runs when it is called.
+    C. A way to form new classes using classes that have already been defined.
+    D. A reserved memory location to store values.
+
+2. What is the definition of 'Lambda'?
+    A. An instance of a class.
+    B. A small anonymous function.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. Used for iterating over a sequence.
+
+3. What is the definition of 'Tuple'?
+    A. A collection which is ordered and unchangeable. Allows duplicate members.
+    B. A function that returns an iterator that yields a series of values.
+    C. A file containing a set of functions you want to include in your application.
+    D. Used to perform different actions based on different conditions.
+
+4. What is the definition of 'Decorator'?
+    A. An instance of a class.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. Used to perform different actions based on different conditions.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+5. What is the definition of 'String'?
+    A. A sequence of characters.
+    B. A file containing a set of functions you want to include in your application.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A block of code which only runs when it is called.
+
+6. What is the definition of 'List'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A small anonymous function.
+    D. A concise way to create lists.
+
+7. What is the definition of 'Class'?
+    A. A way of organizing related modules.
+    B. A sequence of characters.
+    C. A code template for creating objects.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+8. What is the definition of 'Loop'?
+    A. A code template for creating objects.
+    B. Used for iterating over a sequence.
+    C. The ability to present the same interface for different underlying forms.
+    D. A reserved memory location to store values.
+
+9. What is the definition of 'Conditional'?
+    A. A way of organizing related modules.
+    B. The ability to present the same interface for different underlying forms.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. Used to perform different actions based on different conditions.
+
+10. What is the definition of 'Variable'?
+    A. A reserved memory location to store values.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A function that returns an iterator that yields a series of values.
+    D. The ability to present the same interface for different underlying forms.
+
+11. What is the definition of 'Polymorphism'?
+    A. Used for iterating over a sequence.
+    B. The ability to present the same interface for different underlying forms.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. A sequence of characters.
+
+12. What is the definition of 'Module'?
+    A. A file containing a set of functions you want to include in your application.
+    B. A block of code which only runs when it is called.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+13. What is the definition of 'Set'?
+    A. An instance of a class.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. A way to form new classes using classes that have already been defined.
+
+14. What is the definition of 'Inheritance'?
+    A. Used for iterating over a sequence.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A sequence of characters.
+    D. A way to form new classes using classes that have already been defined.
+
+15. What is the definition of 'Generator'?
+    A. A function that returns an iterator that yields a series of values.
+    B. An event that can disrupt the normal flow of a program.
+    C. A block of code which only runs when it is called.
+    D. A way to form new classes using classes that have already been defined.
+
+16. What is the definition of 'Dictionary'?
+    A. A sequence of characters.
+    B. A function that returns an iterator that yields a series of values.
+    C. A file containing a set of functions you want to include in your application.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+17. What is the definition of 'Exception'?
+    A. An event that can disrupt the normal flow of a program.
+    B. A way to form new classes using classes that have already been defined.
+    C. A reserved memory location to store values.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+18. What is the definition of 'List Comprehension'?
+    A. A concise way to create lists.
+    B. A function that takes another function and extends its behavior without explicitly modifying it.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A way to form new classes using classes that have already been defined.
+
+19. What is the definition of 'Object'?
+    A. An instance of a class.
+    B. A block of code which only runs when it is called.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A sequence of characters.
+
+20. What is the definition of 'Package'?
+    A. A code template for creating objects.
+    B. A block of code which only runs when it is called.
+    C. A way to form new classes using classes that have already been defined.
+    D. A way of organizing related modules.
+

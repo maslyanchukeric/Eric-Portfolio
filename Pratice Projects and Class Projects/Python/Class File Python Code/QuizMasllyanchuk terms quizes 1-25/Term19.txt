@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 19)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'List Comprehension'?
+    A. A small anonymous function.
+    B. A concise way to create lists.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. The ability to present the same interface for different underlying forms.
+
+2. What is the definition of 'Module'?
+    A. A file containing a set of functions you want to include in your application.
+    B. An event that can disrupt the normal flow of a program.
+    C. An instance of a class.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+3. What is the definition of 'Tuple'?
+    A. A reserved memory location to store values.
+    B. A collection which is ordered and unchangeable. Allows duplicate members.
+    C. A way to form new classes using classes that have already been defined.
+    D. Used for iterating over a sequence.
+
+4. What is the definition of 'Object'?
+    A. An event that can disrupt the normal flow of a program.
+    B. An instance of a class.
+    C. A small anonymous function.
+    D. A sequence of characters.
+
+5. What is the definition of 'Decorator'?
+    A. A concise way to create lists.
+    B. The ability to present the same interface for different underlying forms.
+    C. Used for iterating over a sequence.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+6. What is the definition of 'Exception'?
+    A. Used for iterating over a sequence.
+    B. A reserved memory location to store values.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. An event that can disrupt the normal flow of a program.
+
+7. What is the definition of 'String'?
+    A. A sequence of characters.
+    B. A reserved memory location to store values.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+8. What is the definition of 'Loop'?
+    A. A way to form new classes using classes that have already been defined.
+    B. Used for iterating over a sequence.
+    C. A reserved memory location to store values.
+    D. The ability to present the same interface for different underlying forms.
+
+9. What is the definition of 'Conditional'?
+    A. Used to perform different actions based on different conditions.
+    B. A collection which is ordered and unchangeable. Allows duplicate members.
+    C. A sequence of characters.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+10. What is the definition of 'Class'?
+    A. A code template for creating objects.
+    B. A function that returns an iterator that yields a series of values.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A block of code which only runs when it is called.
+
+11. What is the definition of 'Set'?
+    A. Used to perform different actions based on different conditions.
+    B. A way of organizing related modules.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A collection which is ordered and unchangeable. Allows duplicate members.
+
+12. What is the definition of 'Package'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A reserved memory location to store values.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A way of organizing related modules.
+
+13. What is the definition of 'Polymorphism'?
+    A. The ability to present the same interface for different underlying forms.
+    B. Used to perform different actions based on different conditions.
+    C. A file containing a set of functions you want to include in your application.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+14. What is the definition of 'Variable'?
+    A. A block of code which only runs when it is called.
+    B. The ability to present the same interface for different underlying forms.
+    C. An event that can disrupt the normal flow of a program.
+    D. A reserved memory location to store values.
+
+15. What is the definition of 'Dictionary'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A concise way to create lists.
+    C. A small anonymous function.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+16. What is the definition of 'Function'?
+    A. A block of code which only runs when it is called.
+    B. An event that can disrupt the normal flow of a program.
+    C. A concise way to create lists.
+    D. A way to form new classes using classes that have already been defined.
+
+17. What is the definition of 'Lambda'?
+    A. A small anonymous function.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. An event that can disrupt the normal flow of a program.
+
+18. What is the definition of 'Generator'?
+    A. A concise way to create lists.
+    B. A file containing a set of functions you want to include in your application.
+    C. A function that returns an iterator that yields a series of values.
+    D. An instance of a class.
+
+19. What is the definition of 'List'?
+    A. An event that can disrupt the normal flow of a program.
+    B. A reserved memory location to store values.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. Used for iterating over a sequence.
+
+20. What is the definition of 'Inheritance'?
+    A. A collection which is ordered and unchangeable. Allows duplicate members.
+    B. A small anonymous function.
+    C. A concise way to create lists.
+    D. A way to form new classes using classes that have already been defined.
+

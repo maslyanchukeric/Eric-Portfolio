@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 7)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'Generator'?
+    A. A function that returns an iterator that yields a series of values.
+    B. Used for iterating over a sequence.
+    C. An instance of a class.
+    D. Used to perform different actions based on different conditions.
+
+2. What is the definition of 'Dictionary'?
+    A. A collection which is unordered, changeable, and indexed. No duplicate members.
+    B. A way to form new classes using classes that have already been defined.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. An instance of a class.
+
+3. What is the definition of 'Tuple'?
+    A. Used for iterating over a sequence.
+    B. A file containing a set of functions you want to include in your application.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. An instance of a class.
+
+4. What is the definition of 'String'?
+    A. A sequence of characters.
+    B. An instance of a class.
+    C. A code template for creating objects.
+    D. A way to form new classes using classes that have already been defined.
+
+5. What is the definition of 'Decorator'?
+    A. A collection which is unordered, changeable, and indexed. No duplicate members.
+    B. A way of organizing related modules.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+6. What is the definition of 'Function'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. A block of code which only runs when it is called.
+    C. A function that returns an iterator that yields a series of values.
+    D. Used for iterating over a sequence.
+
+7. What is the definition of 'Class'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A file containing a set of functions you want to include in your application.
+    C. A code template for creating objects.
+    D. A block of code which only runs when it is called.
+
+8. What is the definition of 'Exception'?
+    A. The ability to present the same interface for different underlying forms.
+    B. A reserved memory location to store values.
+    C. A sequence of characters.
+    D. An event that can disrupt the normal flow of a program.
+
+9. What is the definition of 'Module'?
+    A. A file containing a set of functions you want to include in your application.
+    B. A code template for creating objects.
+    C. A way of organizing related modules.
+    D. Used to perform different actions based on different conditions.
+
+10. What is the definition of 'Set'?
+    A. A file containing a set of functions you want to include in your application.
+    B. A way of organizing related modules.
+    C. Used to perform different actions based on different conditions.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+11. What is the definition of 'Loop'?
+    A. A concise way to create lists.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. An event that can disrupt the normal flow of a program.
+    D. Used for iterating over a sequence.
+
+12. What is the definition of 'Inheritance'?
+    A. Used for iterating over a sequence.
+    B. A way to form new classes using classes that have already been defined.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A reserved memory location to store values.
+
+13. What is the definition of 'Variable'?
+    A. A reserved memory location to store values.
+    B. A block of code which only runs when it is called.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A function that returns an iterator that yields a series of values.
+
+14. What is the definition of 'List Comprehension'?
+    A. A reserved memory location to store values.
+    B. A concise way to create lists.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. A sequence of characters.
+
+15. What is the definition of 'Object'?
+    A. An instance of a class.
+    B. A file containing a set of functions you want to include in your application.
+    C. A sequence of characters.
+    D. A way of organizing related modules.
+
+16. What is the definition of 'Package'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. An event that can disrupt the normal flow of a program.
+    C. A collection which is unordered and unindexed. No duplicate members.
+    D. A way of organizing related modules.
+
+17. What is the definition of 'Polymorphism'?
+    A. An instance of a class.
+    B. The ability to present the same interface for different underlying forms.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. A collection which is ordered and unchangeable. Allows duplicate members.
+
+18. What is the definition of 'Lambda'?
+    A. A small anonymous function.
+    B. A file containing a set of functions you want to include in your application.
+    C. A reserved memory location to store values.
+    D. A collection which is ordered and changeable. Allows duplicate members.
+
+19. What is the definition of 'Conditional'?
+    A. Used for iterating over a sequence.
+    B. Used to perform different actions based on different conditions.
+    C. An event that can disrupt the normal flow of a program.
+    D. A way of organizing related modules.
+
+20. What is the definition of 'List'?
+    A. A function that returns an iterator that yields a series of values.
+    B. The ability to present the same interface for different underlying forms.
+    C. A collection which is ordered and changeable. Allows duplicate members.
+    D. A sequence of characters.
+

@@ -1,0 +1,126 @@
+                    Python Terms Quiz (Form 4)
+
+Name: _____________________________
+
+Date: ____________
+
+1. What is the definition of 'Exception'?
+    A. A collection which is unordered and unindexed. No duplicate members.
+    B. A way to form new classes using classes that have already been defined.
+    C. An event that can disrupt the normal flow of a program.
+    D. A collection which is ordered and changeable. Allows duplicate members.
+
+2. What is the definition of 'Tuple'?
+    A. Used to perform different actions based on different conditions.
+    B. A way to form new classes using classes that have already been defined.
+    C. A collection which is ordered and unchangeable. Allows duplicate members.
+    D. A concise way to create lists.
+
+3. What is the definition of 'Module'?
+    A. A small anonymous function.
+    B. Used for iterating over a sequence.
+    C. A file containing a set of functions you want to include in your application.
+    D. A block of code which only runs when it is called.
+
+4. What is the definition of 'Generator'?
+    A. A file containing a set of functions you want to include in your application.
+    B. A way of organizing related modules.
+    C. A function that returns an iterator that yields a series of values.
+    D. A collection which is unordered and unindexed. No duplicate members.
+
+5. What is the definition of 'Set'?
+    A. A collection which is unordered and unindexed. No duplicate members.
+    B. A block of code which only runs when it is called.
+    C. The ability to present the same interface for different underlying forms.
+    D. An event that can disrupt the normal flow of a program.
+
+6. What is the definition of 'Package'?
+    A. A code template for creating objects.
+    B. A way of organizing related modules.
+    C. An instance of a class.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+7. What is the definition of 'Conditional'?
+    A. A function that takes another function and extends its behavior without explicitly modifying it.
+    B. Used to perform different actions based on different conditions.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A code template for creating objects.
+
+8. What is the definition of 'Loop'?
+    A. Used for iterating over a sequence.
+    B. A collection which is unordered, changeable, and indexed. No duplicate members.
+    C. Used to perform different actions based on different conditions.
+    D. A sequence of characters.
+
+9. What is the definition of 'Polymorphism'?
+    A. The ability to present the same interface for different underlying forms.
+    B. A block of code which only runs when it is called.
+    C. A concise way to create lists.
+    D. A collection which is unordered, changeable, and indexed. No duplicate members.
+
+10. What is the definition of 'Class'?
+    A. A code template for creating objects.
+    B. A way to form new classes using classes that have already been defined.
+    C. Used to perform different actions based on different conditions.
+    D. A sequence of characters.
+
+11. What is the definition of 'Dictionary'?
+    A. An event that can disrupt the normal flow of a program.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A way of organizing related modules.
+
+12. What is the definition of 'Lambda'?
+    A. An event that can disrupt the normal flow of a program.
+    B. A small anonymous function.
+    C. A concise way to create lists.
+    D. A function that returns an iterator that yields a series of values.
+
+13. What is the definition of 'Inheritance'?
+    A. A reserved memory location to store values.
+    B. A small anonymous function.
+    C. A file containing a set of functions you want to include in your application.
+    D. A way to form new classes using classes that have already been defined.
+
+14. What is the definition of 'List'?
+    A. A collection which is ordered and changeable. Allows duplicate members.
+    B. A way of organizing related modules.
+    C. A concise way to create lists.
+    D. A function that takes another function and extends its behavior without explicitly modifying it.
+
+15. What is the definition of 'Object'?
+    A. An instance of a class.
+    B. A concise way to create lists.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A code template for creating objects.
+
+16. What is the definition of 'Variable'?
+    A. A reserved memory location to store values.
+    B. A collection which is unordered, changeable, and indexed. No duplicate members.
+    C. Used to perform different actions based on different conditions.
+    D. A block of code which only runs when it is called.
+
+17. What is the definition of 'Function'?
+    A. The ability to present the same interface for different underlying forms.
+    B. A collection which is unordered and unindexed. No duplicate members.
+    C. A block of code which only runs when it is called.
+    D. A concise way to create lists.
+
+18. What is the definition of 'String'?
+    A. A collection which is unordered, changeable, and indexed. No duplicate members.
+    B. A sequence of characters.
+    C. An instance of a class.
+    D. A way to form new classes using classes that have already been defined.
+
+19. What is the definition of 'List Comprehension'?
+    A. An instance of a class.
+    B. A concise way to create lists.
+    C. A collection which is unordered, changeable, and indexed. No duplicate members.
+    D. A collection which is ordered and unchangeable. Allows duplicate members.
+
+20. What is the definition of 'Decorator'?
+    A. A sequence of characters.
+    B. A concise way to create lists.
+    C. A function that takes another function and extends its behavior without explicitly modifying it.
+    D. A function that returns an iterator that yields a series of values.
+
