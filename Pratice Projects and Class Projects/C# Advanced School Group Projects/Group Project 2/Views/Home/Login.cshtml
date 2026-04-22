@@ -1,0 +1,208 @@
+﻿@model SportsApp2.Models.Login
+@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Managment -Login</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+            body, h1, h2, h3, h4, h5, h6 {
+                font-family: "Raleway", sans-serif;
+            }
+
+            html, body {
+                height: 100%;
+                margin: 0;
+                background: linear-gradient(to right, #3498db, #bfe3ff);
+            }
+
+            .main-content {
+                min-height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .login-container {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .login-card {
+                background: #f5f5f5;
+                width: 420px;
+                padding: 40px;
+                border-radius: 20px;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+                border-top: 4px solid #2ecc71;
+            }
+
+            .login-header {
+                text-align: center;
+                margin-bottom: 25px;
+            }
+
+                .login-header h1 {
+                    margin-bottom: 10px;
+                    font-size: 48px;
+                }
+
+                .login-header p {
+                    color: gray;
+                    margin-bottom: 25px;
+                }
+
+            .form-group {
+                margin-bottom: 20px;
+            }
+
+                .form-group label {
+                    display: block;
+                    margin-bottom: 8px;
+                    font-weight: bold;
+                }
+
+            .form-control {
+                width: 100%;
+                padding: 14px;
+                border: none;
+                border-radius: 10px;
+                background: #eaeaea;
+                box-sizing: border-box;
+                font-size: 16px;
+            }
+
+            .form-options {
+                margin-bottom: 20px;
+            }
+
+                .form-options a {
+                    color: #333;
+                    text-decoration: underline;
+                }
+
+            .login-btn {
+                width: 100%;
+                padding: 14px;
+                border: none;
+                border-radius: 30px;
+                background: #0d3f7a;
+                color: white;
+                font-size: 18px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+                .login-btn:hover {
+                    opacity: 0.9;
+                }
+
+            .divider {
+                margin: 20px 0;
+                border-top: 1px solid #ccc;
+            }
+
+            .signup-link {
+                text-align: center;
+                font-size: 14px;
+            }
+
+                .signup-link a {
+                    color: #2f6df6;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+
+            .success-message {
+                text-align: left;
+                margin-top: 25px;
+            }
+
+            .success-icon {
+                margin-bottom: 10px;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="main-content">
+        <div class="login-container">
+            <div class="login-card">
+                <div class="login-header">
+                    <h1>Sign In</h1>
+                    <p>Continue to your sports</p>
+                </div>
+
+                <form asp-action="Login" asp-controller="Home" method="post" class="login-form" id="loginForm">
+                    @Html.AntiForgeryToken()
+
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control" autocomplete="email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Password"></label>
+                        <div class="password-wrapper">
+                            <input asp-for="Password" class="form-control" autocomplete="current-password" />
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-options">
+                        <a asp-controller="Home" asp-action="ForgotPassword">Forgot Password</a>
+                    </div>
+
+                    <button type="submit" class="login-btn">
+                        <span class="btn-text">Sign In</span>
+                    </button>
+                </form>
+
+                <div class="divider"></div>
+
+                <div class="signup-link">
+                    <p>Don't have an account? <a asp-controller="Home" asp-action="CreateAccount">Sign up free</a></p>
+                </div>                
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div style="background:#011d4a; color:white; padding:25px 30px; text-align:center;">
+            <p style="font-size:14px; line-height:1.6; margin:0;">
+                Gambling problem? Call 1-800-GAMBLER. Please gamble responsibly. Terms and eligibility restrictions apply.
+            </p>
+
+            <p style="margin-top:15px; margin-bottom:0;">
+                © 2026 Sports Application, LLC. All rights reserved.
+            </p>
+        </div>
+
+        <div style="background:black; color:white; padding:15px 30px; text-align:center;">
+            <h5 style="margin-top:0;">Sports Application</h5>
+            <p style="margin:5px 0;">
+                <a href="mailto:sportsapplication206@gmail.com" style="color:white;">
+                    sportsapplication206@gmail.com
+                </a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+</body>
+</html>

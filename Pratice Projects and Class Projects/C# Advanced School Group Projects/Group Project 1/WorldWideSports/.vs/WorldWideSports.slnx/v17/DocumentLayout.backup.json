@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|c:\\users\\isaac\\onedrive\\documents\\github\\sportsdataappgroupproject1-worldwidesportsappproject\\worldwidesports\\worldwidesports\\nfldetailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|solutionrelative:worldwidesports\\nfldetailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\worldwidesports\\nfldetailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|solutionrelative:worldwidesports\\nfldetailedform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\worldwidesports\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|solutionrelative:worldwidesports\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\worldwidesports\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|solutionrelative:worldwidesports\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\worldwidesports\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECEF9588-1440-43A9-9AB5-821B8C92AF84}|WorldWideSports\\WorldWideSports.csproj|solutionrelative:worldwidesports\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\MainForm.cs",
+              "RelativeDocumentMoniker": "WorldWideSports\\MainForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\MainForm.cs",
+              "RelativeToolTip": "WorldWideSports\\MainForm.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAmwAIBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:17:04.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NFLDetailedForm.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\NFLDetailedForm.cs",
+              "RelativeDocumentMoniker": "WorldWideSports\\NFLDetailedForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\NFLDetailedForm.cs",
+              "RelativeToolTip": "WorldWideSports\\NFLDetailedForm.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAWwFUBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:06:21.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NFLDetailedForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\NFLDetailedForm.cs",
+              "RelativeDocumentMoniker": "WorldWideSports\\NFLDetailedForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\NFLDetailedForm.cs [Design]",
+              "RelativeToolTip": "WorldWideSports\\NFLDetailedForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:25:40.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WorldWideSports\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WorldWideSports\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:25:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\MainForm.cs",
+              "RelativeDocumentMoniker": "WorldWideSports\\MainForm.cs",
+              "ToolTip": "C:\\Users\\isaac\\OneDrive\\Documents\\GitHub\\sportsdataappgroupproject1-worldwidesportsappproject\\WorldWideSports\\WorldWideSports\\MainForm.cs [Design]",
+              "RelativeToolTip": "WorldWideSports\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:18:47.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

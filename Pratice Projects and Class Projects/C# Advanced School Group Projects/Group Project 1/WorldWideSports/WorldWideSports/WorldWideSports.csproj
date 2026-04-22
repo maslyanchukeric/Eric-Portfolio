@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ECEF9588-1440-43A9-9AB5-821B8C92AF84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WorldWideSports</RootNamespace>
+    <AssemblyName>WorldWideSports</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NFLDetailedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NFLDetailedForm.Designer.cs">
+      <DependentUpon>NFLDetailedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NFLGames.cs" />
+    <Compile Include="NFLPlayers.cs" />
+    <Compile Include="PGADetailedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PGADetailedForm.Designer.cs">
+      <DependentUpon>PGADetailedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PGAPlayerStats.cs" />
+    <Compile Include="PGATournament.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UpcomingFixtures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpcomingFixtures.Designer.cs">
+      <DependentUpon>UpcomingFixtures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorldWideSportsDBDataSet.cs">
+      <DependentUpon>WorldWideSportsDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="WorldWideSportsDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WorldWideSportsDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="WorldWideSportsPlayersPlusDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WorldWideSportsPlayersPlusDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NFLDetailedForm.resx">
+      <DependentUpon>NFLDetailedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PGADetailedForm.resx">
+      <DependentUpon>PGADetailedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UpcomingFixtures.resx">
+      <DependentUpon>UpcomingFixtures.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WorldWideSportsDBDataSet.xsc">
+      <DependentUpon>WorldWideSportsDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="WorldWideSportsDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>WorldWideSportsDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="WorldWideSportsDBDataSet.xss">
+      <DependentUpon>WorldWideSportsDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="WorldWideSportsPlayersPlusDataSet.xsc">
+      <DependentUpon>WorldWideSportsPlayersPlusDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="WorldWideSportsPlayersPlusDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>WorldWideSportsPlayersPlusDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="WorldWideSportsPlayersPlusDataSet.xss">
+      <DependentUpon>WorldWideSportsPlayersPlusDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArizonaLogo.png" />
+    <None Include="Resources\AtlantaLogo.png" />
+    <None Include="Resources\BaltimoreLogo.png" />
+    <None Include="Resources\BuffaloLogo.png" />
+    <None Include="Resources\CarolinaLogo.png" />
+    <None Include="Resources\ChicagoLogo.png" />
+    <None Include="Resources\CincinnatiLogo.png" />
+    <None Include="Resources\ClevelandLogo.png" />
+    <None Include="Resources\DallasLogo.png" />
+    <None Include="Resources\DenverLogo.png" />
+    <None Include="Resources\DetroitLogo.png" />
+    <None Include="Resources\GreenBayLogo.png" />
+    <None Include="Resources\HoustonLogo.png" />
+    <None Include="Resources\IndianapolisLogo.png" />
+    <None Include="Resources\JacksonvilleLogo.png" />
+    <None Include="Resources\KansasCityLogo.png" />
+    <None Include="Resources\LAChargersLogo.png" />
+    <None Include="Resources\LARamsLogo.png" />
+    <None Include="Resources\MiamiLogo.png" />
+    <None Include="Resources\MinnesotaLogo.png" />
+    <None Include="Resources\NewEnglandLogo.png" />
+    <None Include="Resources\NewOrleansLogo.png" />
+    <None Include="Resources\NewYorkGiantsLogo.png" />
+    <None Include="Resources\NewYorkJetsLogo.png" />
+    <None Include="Resources\PhillyLogo.png" />
+    <None Include="Resources\PittsburghLogo.png" />
+    <None Include="Resources\SanFranLogo.png" />
+    <None Include="Resources\SeattleLogo.png" />
+    <None Include="Resources\TampaLogo.png" />
+    <None Include="Resources\TennesseeLogo.png" />
+    <None Include="Resources\VegasLogo.png" />
+    <None Include="Resources\WashingtonLogo.png" />
+    <None Include="Resources\ArizonaText.png" />
+    <None Include="Resources\AtlantaText.png" />
+    <None Include="Resources\BaltimoreText.png" />
+    <None Include="Resources\BuffaloText.png" />
+    <None Include="Resources\CarolinaText.png" />
+    <None Include="Resources\ChicagoText.png" />
+    <None Include="Resources\cincinnatiText.png" />
+    <None Include="Resources\ClevelandText.png" />
+    <None Include="Resources\DallasText.png" />
+    <None Include="Resources\DenverText.png" />
+    <None Include="Resources\DetroitText.png" />
+    <None Include="Resources\GreenBayText.png" />
+    <None Include="Resources\HoustonText.png" />
+    <None Include="Resources\IndianapolisText.png" />
+    <None Include="Resources\JacksonvilleText.png" />
+    <None Include="Resources\KansasCityText.png" />
+    <None Include="Resources\LAChargersText.png" />
+    <None Include="Resources\LARamsText.png" />
+    <None Include="Resources\MiamiText.png" />
+    <None Include="Resources\MinnesotaText.png" />
+    <None Include="Resources\NewEnglandText.png" />
+    <None Include="Resources\NewOrleansText.png" />
+    <None Include="Resources\NewYorkGiantsText.png" />
+    <None Include="Resources\NewYorkJetsText.png" />
+    <None Include="Resources\PhillyText.png" />
+    <None Include="Resources\PittsburghText.png" />
+    <None Include="Resources\SanFranText.png" />
+    <None Include="Resources\SeattleText.png" />
+    <None Include="Resources\TampaText.png" />
+    <None Include="Resources\TennesseeText.png" />
+    <None Include="Resources\VegasText.png" />
+    <None Include="Resources\WashingtonText.png" />
+    <Content Include="WorldWideSportsPlayersPlus.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

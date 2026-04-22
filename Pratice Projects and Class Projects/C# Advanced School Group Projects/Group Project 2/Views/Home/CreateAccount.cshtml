@@ -1,0 +1,235 @@
+﻿@model SportsApp2.Models.CreateAccount
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Create Account";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Managment - Create Account</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+            body, h1, h2, h3, h4, h5, h6 {
+                font-family: "Raleway", sans-serif;
+            }
+
+            html, body {
+                height: 100%;
+                margin: 0;
+                background: linear-gradient(to right, #3498db, #bfe3ff);
+            }
+
+            .main-content {
+                min-height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 30px 15px;
+            }
+
+            .login-container {
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .login-card {
+                background: #f5f5f5;
+                width: 420px;
+                padding: 40px;
+                border-radius: 20px;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+                border-top: 4px solid #2ecc71;
+            }
+
+            .login-header {
+                text-align: center;
+                margin-bottom: 25px;
+            }
+
+                .login-header h1 {
+                    margin: 0 0 10px 0;
+                    font-size: 48px;
+                }
+
+                .login-header p {
+                    color: gray;
+                    margin: 0 0 25px 0;
+                }
+
+            .form-group {
+                margin-bottom: 20px;
+            }
+
+                .form-group label {
+                    display: block;
+                    margin-bottom: 8px;
+                    font-weight: bold;
+                }
+
+            .form-control {
+                width: 100%;
+                padding: 14px;
+                border: none;
+                border-radius: 10px;
+                background: #eaeaea;
+                box-sizing: border-box;
+                font-size: 16px;
+            }
+
+            input[type="file"].form-control {
+                padding: 10px;
+                background: transparent;
+            }
+
+            .login-btn {
+                width: 100%;
+                padding: 14px;
+                border: none;
+                border-radius: 30px;
+                background: #0d3f7a;
+                color: white;
+                font-size: 18px;
+                font-weight: bold;
+                cursor: pointer;
+                margin-top: 10px;
+            }
+
+                .login-btn:hover {
+                    opacity: 0.9;
+                }
+
+            .signup-link {
+                text-align: center;
+                font-size: 14px;
+                margin-top: 20px;
+            }
+
+                .signup-link a {
+                    color: #2f6df6;
+                    text-decoration: none;
+                    font-weight: bold;
+                }
+
+            .text-danger {
+                color: red;
+                font-size: 14px;
+            }
+
+            #imagePreview {
+                display: none;
+                max-width: 200px;
+                margin: 15px auto 0 auto;
+                border-radius: 10px;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="main-content">
+        <div class="login-container">
+            <div class="login-card">
+                <div class="login-header">
+                    <h1>Create Account</h1>
+                    <p>Welcome to the team!</p>
+                </div>
+
+                <form asp-action="CreateAccount" asp-controller="Home" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="FirstName">First Name</label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="LastName">Last Name</label>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Password">Password</label>
+                        <input asp-for="Password" type="password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="ProfileImage">Profile Picture</label>
+                        <input asp-for="ProfileImage" type="file" class="form-control" id="fileInput" onchange="previewFile(this)" />
+                    </div>
+
+                    <img id="imagePreview" src="#" alt="File preview" />
+
+                    <button type="submit" class="login-btn">Create Account</button>
+
+                    <div class="signup-link">
+                        <p>Already have an account? <a asp-controller="Home" asp-action="Login">Login</a></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div style="background:#011d4a; color:white; padding:25px 30px; text-align:center;">
+            <p style="font-size:14px; line-height:1.6; margin:0;">
+                Gambling problem? Call 1-800-GAMBLER. Please gamble responsibly. Terms and eligibility restrictions apply.
+            </p>
+
+            <p style="margin-top:15px; margin-bottom:0;">
+                © 2026 Sports Application, LLC. All rights reserved.
+            </p>
+        </div>
+
+        <div style="background:black; color:white; padding:15px 30px; text-align:center;">
+            <h5 style="margin-top:0;">Sports Application</h5>
+            <p style="margin:5px 0;">
+                <a href="mailto:sportsapplication206@gmail.com" style="color:white;">
+                    sportsapplication206@gmail.com
+                </a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+            function previewFile(input) {
+                var file = input.files[0];
+                var imgPreview = document.getElementById('imagePreview');
+
+                if (file && file.type.startsWith('image/')) {
+                    var reader = new FileReader();
+
+                    reader.onload = function (e) {
+                        imgPreview.src = e.target.result;
+                        imgPreview.style.display = 'block';
+                    };
+
+                    reader.readAsDataURL(file);
+                } else {
+                    imgPreview.src = '#';
+                    imgPreview.style.display = 'none';
+                }
+            }
+    </script>
+
+    <partial name="_ValidationScriptsPartial" />
+</body>
+</html>
