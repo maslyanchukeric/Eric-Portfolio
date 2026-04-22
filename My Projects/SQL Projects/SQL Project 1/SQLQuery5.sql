@@ -1,0 +1,1 @@
+SELECT Vend_id, Vend_name, Vend_bonus FROM Vendors_0298188;
