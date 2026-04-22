@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 4 Auto Sales Commission Eric Maslyanchuk CPT168", "Lab 4 Auto Sales Commission Eric Maslyanchuk CPT168.vcxproj", "{100B7AFA-7167-46FF-927A-2E6C93407CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Debug|x64.ActiveCfg = Debug|x64
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Debug|x64.Build.0 = Debug|x64
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Debug|x86.Build.0 = Debug|Win32
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Release|x64.ActiveCfg = Release|x64
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Release|x64.Build.0 = Release|x64
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Release|x86.ActiveCfg = Release|Win32
+		{100B7AFA-7167-46FF-927A-2E6C93407CA5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5947433C-177B-4056-AD6C-6AA8DB9DFC12}
+	EndGlobalSection
+EndGlobal

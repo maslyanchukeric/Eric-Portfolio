@@ -1,0 +1,4 @@
+﻿  Lab 6 Loop Christmas Bonus.cpp
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Labs\Lab 6 Loop Christmas Bonus\Lab 6 Loop Christmas Bonus\Lab 6 Loop Christmas Bonus.cpp(33,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Labs\Lab 6 Loop Christmas Bonus\Lab 6 Loop Christmas Bonus\Lab 6 Loop Christmas Bonus.cpp(37,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab 6 Loop Christmas Bonus.vcxproj -> C:\Users\masly\OneDrive\Desktop\School\CPT 168\Labs\Lab 6 Loop Christmas Bonus\Lab 6 Loop Christmas Bonus\x64\Debug\Lab 6 Loop Christmas Bonus.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masly\\OneDrive\\Desktop\\School\\Semester 2\\CPT 168\\Tests\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B77A89B-6359-4DC9-A10C-8E0D024072FE}|Final.vcxproj|C:\\Users\\masly\\OneDrive\\Desktop\\School\\Semester 2\\CPT 168\\Tests\\Final\\Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B77A89B-6359-4DC9-A10C-8E0D024072FE}|Final.vcxproj|solutionrelative:Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Final.cpp",
+              "DocumentMoniker": "C:\\Users\\masly\\OneDrive\\Desktop\\School\\Semester 2\\CPT 168\\Tests\\Final\\Final.cpp",
+              "RelativeDocumentMoniker": "Final.cpp",
+              "ToolTip": "C:\\Users\\masly\\OneDrive\\Desktop\\School\\Semester 2\\CPT 168\\Tests\\Final\\Final.cpp",
+              "RelativeToolTip": "Final.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T22:09:20.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

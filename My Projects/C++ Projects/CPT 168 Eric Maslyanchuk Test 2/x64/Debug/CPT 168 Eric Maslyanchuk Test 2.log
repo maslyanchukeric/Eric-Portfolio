@@ -1,0 +1,5 @@
+﻿  CPT 168 Eric Maslyanchuk Test 2.cpp
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\CPT 168 Eric Maslyanchuk Test 2\CPT 168 Eric Maslyanchuk Test 2.cpp(33,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\CPT 168 Eric Maslyanchuk Test 2\CPT 168 Eric Maslyanchuk Test 2.cpp(37,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\CPT 168 Eric Maslyanchuk Test 2\CPT 168 Eric Maslyanchuk Test 2.cpp(45,23): error C2146: syntax error: missing ';' before identifier 'endl'
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\CPT 168 Eric Maslyanchuk Test 2\CPT 168 Eric Maslyanchuk Test 2.cpp(45,23): warning C4551: function call missing argument list

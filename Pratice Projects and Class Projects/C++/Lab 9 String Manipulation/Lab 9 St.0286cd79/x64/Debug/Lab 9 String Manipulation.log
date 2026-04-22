@@ -1,0 +1,4 @@
+﻿  Lab 9 String Manipulation.cpp
+C:\Users\masly\OneDrive\Desktop\School\Semester 2\CPT 168\Labs\Lab 9 String Manipulation\Lab 9 String Manipulation.cpp(56,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\masly\OneDrive\Desktop\School\Semester 2\CPT 168\Labs\Lab 9 String Manipulation\Lab 9 String Manipulation.cpp(70,10): warning C4129: 'T': unrecognized character escape sequence
+  Lab 9 String Manipulation.vcxproj -> C:\Users\masly\OneDrive\Desktop\School\Semester 2\CPT 168\Labs\Lab 9 String Manipulation\x64\Debug\Lab 9 String Manipulation.exe

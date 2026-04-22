@@ -1,0 +1,6 @@
+﻿  Test Redo.cpp
+C:\Users\masly\source\repos\Test Redo\Test Redo.cpp(39,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\source\repos\Test Redo\Test Redo.cpp(43,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\source\repos\Test Redo\Test Redo.cpp(47,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\source\repos\Test Redo\Test Redo.cpp(69,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Test Redo.vcxproj -> C:\Users\masly\source\repos\Test Redo\x64\Debug\Test Redo.exe

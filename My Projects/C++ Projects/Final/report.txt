@@ -1,0 +1,12 @@
+	Mas     	E.		SC	29369-1740	1.2	$120.00   	Even Year
+	Bets     	K.		FL	81023-8623	3.6	$720.00   	Even Year
+	Kidman     	N.		CA	92653-8623	2.1	$1050.00   	Odd Year
+	Pitt     	B.		FL	85640-8623	3.5	$700.00   	Odd Year
+	Foster     	J.		SC	29532-1820	4.5	$450.00   	Even Year
+	Newton     	T.		CA	92532-8623	2.9	$1450.00   	Odd Year
+	Mas     	E.		SC	29369-1740	1.2	$120.00   	Even Year
+	Bets     	K.		FL	81023-8623	3.6	$720.00   	Even Year
+	Kidman     	N.		CA	92653-8623	2.1	$1050.00   	Odd Year
+	Pitt     	B.		FL	85640-8623	3.5	$700.00   	Odd Year
+	Foster     	J.		SC	29532-1820	4.5	$450.00   	Even Year
+	Newton     	T.		CA	92532-8623	2.9	$1450.00   	Odd Year

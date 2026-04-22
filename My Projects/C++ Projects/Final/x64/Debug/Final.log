@@ -1,0 +1,8 @@
+﻿  Final.cpp
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(54,30): warning C4129: '#': unrecognized character escape sequence
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(55,29): warning C4129: '#': unrecognized character escape sequence
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(58,28): warning C4129: '#': unrecognized character escape sequence
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(110,10): warning C4129: '*': unrecognized character escape sequence
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(111,10): warning C4129: '*': unrecognized character escape sequence
+C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\Final.cpp(112,10): warning C4129: '*': unrecognized character escape sequence
+  Final.vcxproj -> C:\Users\masly\OneDrive\Desktop\School\CPT 168\Tests\Final\x64\Debug\Final.exe

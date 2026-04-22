@@ -1,0 +1,8 @@
+﻿  Lab 5 Calculate the Christmas Bonus.cpp
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(23,10): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(27,10): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(32,11): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(36,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(38,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\Lab 5 Calculate the Christmas Bonus.cpp(39,11): warning C4129: 'C': unrecognized character escape sequence
+  Lab 5 Calculate the Christmas Bonus.vcxproj -> C:\Users\masly\source\repos\Lab 5 Calculate the Christmas Bonus\x64\Debug\Lab 5 Calculate the Christmas Bonus.exe
