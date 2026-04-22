@@ -1,0 +1,2 @@
+C:\Users\masly\source\repos\FirstWebAPP\FirstWebAPP\wwwroot\index.html
+wwwroot\index.html

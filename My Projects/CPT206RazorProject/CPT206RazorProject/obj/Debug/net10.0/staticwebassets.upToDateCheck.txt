@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\masly\source\repos\CPT206RazorProject\CPT206RazorProject\wwwroot\index.html

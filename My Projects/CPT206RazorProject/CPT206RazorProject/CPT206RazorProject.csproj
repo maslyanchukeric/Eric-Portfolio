@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Pages\index.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Cpt206.SqlServer\DataContext.SqlServer\DataContext.SqlServer.csproj" />
+    <ProjectReference Include="..\..\Razor.Employees\Razor.Employees\Razor.Employees.csproj" />
+  </ItemGroup>
+
+</Project>

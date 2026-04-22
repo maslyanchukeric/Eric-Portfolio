@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Cpt206.SqlServer/Cpt206.SqlServer/Cpt206.SqlServer.csproj" />
+  <Project Path="../Cpt206.SqlServer/DataContext.SqlServer/DataContext.SqlServer.csproj" />
+  <Project Path="FirstWebAPP/FirstWebAPP.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+﻿@page
+@using Cpt206.SqlServer
+@inject NorthwindContext db
+@{
+    string Title = "Orders";
+    ViewData["Title"] = $"Northwind B2B-CPT 206 - {Title}";
+}
+
+<div class="row">
+    <h1 class="display-2">@Title</h1>
+    <p>There are @db.Orders.Count() orders in the Northwind Database</p>
+</div>

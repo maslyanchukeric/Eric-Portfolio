@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF88E6F-3991-628B-A071-BD523C4E8DC0}|..\\Razor.Employees\\Razor.Employees\\Razor.Employees.csproj|c:\\users\\masly\\source\\repos\\razor.employees\\razor.employees\\areas\\myfeature\\pages\\shared\\_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\suppliers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\suppliers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABE9BA-5673-C529-8854-DCB6B0E0F550}|..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj|c:\\users\\masly\\source\\repos\\cpt206.sqlserver\\datacontext.sqlserver\\northwindcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABE9BA-5673-C529-8854-DCB6B0E0F550}|..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj|c:\\users\\masly\\source\\repos\\cpt206.sqlserver\\datacontext.sqlserver\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABE9BA-5673-C529-8854-DCB6B0E0F550}|..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj|c:\\users\\masly\\source\\repos\\cpt206.sqlserver\\datacontext.sqlserver\\datacontext.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|c:\\users\\masly\\source\\repos\\cpt206razorproject\\cpt206razorproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC60603A-580E-1119-2A86-439C7D86D924}|CPT206RazorProject\\CPT206RazorProject.csproj|solutionrelative:cpt206razorproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Razor.Employees\\Razor.Employees\\Areas\\MyFeature\\Pages\\Shared\\_Employee.cshtml",
+              "RelativeDocumentMoniker": "..\\Razor.Employees\\Razor.Employees\\Areas\\MyFeature\\Pages\\Shared\\_Employee.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Razor.Employees\\Razor.Employees\\Areas\\MyFeature\\Pages\\Shared\\_Employee.cshtml",
+              "RelativeToolTip": "..\\Razor.Employees\\Razor.Employees\\Areas\\MyFeature\\Pages\\Shared\\_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T19:28:19.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\Orders.cshtml",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\Orders.cshtml",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:45:26.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NorthwindContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeToolTip": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:21:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContext.cs",
+              "RelativeToolTip": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:19:58.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.SqlServer.csproj",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "RelativeDocumentMoniker": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "RelativeToolTip": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T18:19:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "suppliers.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\suppliers.cshtml.cs",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\suppliers.cshtml.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\suppliers.cshtml.cs",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\suppliers.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:17:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "suppliers.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\suppliers.cshtml",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\suppliers.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\suppliers.cshtml",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\suppliers.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:17:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:10:20.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T18:09:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\wwwroot\\index.html",
+              "RelativeToolTip": "CPT206RazorProject\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-16T21:11:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\index.cshtml",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Pages\\index.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Pages\\index.cshtml",
+              "RelativeToolTip": "CPT206RazorProject\\Pages\\index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T21:23:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Startup.cs",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Startup.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Startup.cs",
+              "RelativeToolTip": "CPT206RazorProject\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:09:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Program.cs",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Program.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Program.cs",
+              "RelativeToolTip": "CPT206RazorProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T21:08:36.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CPT206RazorProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\CPT206RazorProject\\CPT206RazorProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CPT206RazorProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T21:07:52.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Cpt206.SqlServer/DataContext.SqlServer/DataContext.SqlServer.csproj" />
+  <Project Path="../Razor.Employees/Razor.Employees/Razor.Employees.csproj" />
+  <Project Path="CPT206RazorProject/CPT206RazorProject.csproj" />
+</Solution>
