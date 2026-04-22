@@ -1,0 +1,17 @@
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-3.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-3.deps.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-3.runtimeconfig.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-3.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-3.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.AssemblyInfoInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.AssemblyInfo.cs
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\refint\maslyanchuk-E-Lab-3.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-3.genruntimeconfig.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\ref\maslyanchuk-E-Lab-3.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_3.stadiumSeating.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-3\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_3.Properties.Resources.resources

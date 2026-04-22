@@ -1,0 +1,13 @@
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\bin\Debug\PopulationDB.mdf
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\bin\Debug\PopulationDB_log.ldf
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\bin\Debug\maslyanchuk-E-Lab-11-Chapter-13.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\bin\Debug\maslyanchuk-E-Lab-11-Chapter-13.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\bin\Debug\maslyanchuk-E-Lab-11-Chapter-13.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.csproj.AssemblyReference.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk_E_Lab_11_Chapter_13.Form1.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk_E_Lab_11_Chapter_13.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-11-Chapter-13\obj\Debug\maslyanchuk-E-Lab-11-Chapter-13.exe.config

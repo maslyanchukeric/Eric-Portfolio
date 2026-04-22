@@ -1,0 +1,34 @@
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.deps.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.runtimeconfig.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_2.Cardidentifier.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_2.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.AssemblyInfoInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.AssemblyInfo.cs
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\refint\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.genruntimeconfig.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\In Class Programs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\ref\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.deps.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.runtimeconfig.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\bin\Debug\net8.0-windows\maslyanchuk-E-Lab-2.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_2.Cardidentifier.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk_E_Lab_2.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.AssemblyInfoInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.AssemblyInfo.cs
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\refint\maslyanchuk-E-Lab-2.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\maslyanchuk-E-Lab-2.genruntimeconfig.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 7\CPT 185\Labs\maslyanchuk-E-Lab-2\obj\Debug\net8.0-windows\ref\maslyanchuk-E-Lab-2.dll
