@@ -42,3 +42,6 @@ A web-based vehicle inventory application built with ASP.NET MVC.
 - Learn real-world API integration
 - Build stronger full-stack projects
 - Grow a professional programming portfolio
+
+---
+Group Project were project that our professor gave us and divide us into 3-6 people per team and were given a prompt to make a project 
