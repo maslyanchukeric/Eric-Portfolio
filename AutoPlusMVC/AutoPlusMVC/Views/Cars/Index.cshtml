@@ -1,0 +1,341 @@
+﻿@model IEnumerable<AutoPlusMVC.Models.Car>
+
+@{
+    ViewData["Title"] = "Vehicle Inventory";
+
+    var makes = ViewBag.Makes as List<string>;
+    var models = ViewBag.Models as List<string>;
+    var years = ViewBag.Years as List<int>;
+
+    string selectedMake = ViewBag.SelectedMake as string;
+    string selectedModel = ViewBag.SelectedModel as string;
+    string search = ViewBag.Search as string;
+    string sortOrder = ViewBag.SortOrder as string;
+
+    int? selectedYear = ViewBag.SelectedYear as int?;
+}
+
+<style>
+    .card {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+
+    .pagination .page-link {
+        color: black;
+        border: none;
+        margin: 0 4px;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    .pagination .page-item.active .page-link {
+        background-color: black;
+        color: white;
+    }
+
+    .pagination .page-link:focus {
+        box-shadow: none;
+    }
+</style>
+
+<div class="container-fluid mt-4">
+    <div class="row">
+
+        <!-- LEFT FILTERS -->
+        <div class="col-md-3 col-lg-2">
+            <div class="card shadow-sm p-3 mb-4">
+                <h4 class="mb-3">Filters</h4>
+
+                <form method="get" asp-action="Index" asp-controller="Cars" id="filterForm">
+
+                    <!-- Search -->
+                    <div class="mb-3">
+                        <label class="form-label">Search</label>
+                        <input type="text"
+                               name="search"
+                               value="@search"
+                               class="form-control"
+                               placeholder="Make, Model, VIN" />
+                    </div>
+
+                    <!-- Year -->
+                    <div class="mb-3">
+                        <label class="form-label">Year</label>
+                        <select name="selectedYear" class="form-select" onchange="this.form.submit()">
+                            <option value="">All Years</option>
+                            @if (years != null)
+                            {
+                                foreach (var year in years)
+                                {
+                                    if (selectedYear == year)
+                                    {
+                                        <option value="@year" selected>@year</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@year">@year</option>
+                                    }
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Make -->
+                    <div class="mb-3">
+                        <label class="form-label">Make</label>
+                        <select id="makeDropdown" name="selectedMake" class="form-select" onchange="this.form.submit()">
+                            <option value="">All Makes</option>
+                            @if (makes != null)
+                            {
+                                foreach (var make in makes)
+                                {
+                                    if (selectedMake == make)
+                                    {
+                                        <option value="@make" selected>@make</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@make">@make</option>
+                                    }
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Model -->
+                    <div class="mb-3">
+                        <label class="form-label">Model</label>
+                        <select id="modelDropdown" name="selectedModel" class="form-select" onchange="this.form.submit()">
+                            <option value="">All Models</option>
+                            @if (models != null)
+                            {
+                                foreach (var carModel in models)
+                                {
+                                    if (selectedModel == carModel)
+                                    {
+                                        <option value="@carModel" selected>@carModel</option>
+                                    }
+                                    else
+                                    {
+                                        <option value="@carModel">@carModel</option>
+                                    }
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <!-- Sort -->
+                    <div class="mb-3">
+                        <label class="form-label">Sort By</label>
+                        <select name="sortOrder" class="form-select" onchange="this.form.submit()">
+                            @if (string.IsNullOrEmpty(sortOrder))
+                            {
+                                <option value="" selected>Default</option>
+                            }
+                            else
+                            {
+                                <option value="">Default</option>
+                            }
+
+                            @if (sortOrder == "price_asc")
+                            {
+                                <option value="price_asc" selected>Price: Low to High</option>
+                            }
+                            else
+                            {
+                                <option value="price_asc">Price: Low to High</option>
+                            }
+
+                            @if (sortOrder == "price_desc")
+                            {
+                                <option value="price_desc" selected>Price: High to Low</option>
+                            }
+                            else
+                            {
+                                <option value="price_desc">Price: High to Low</option>
+                            }
+
+                            @if (sortOrder == "year_asc")
+                            {
+                                <option value="year_asc" selected>Year: Older to Newer</option>
+                            }
+                            else
+                            {
+                                <option value="year_asc">Year: Older to Newer</option>
+                            }
+
+                            @if (sortOrder == "year_desc")
+                            {
+                                <option value="year_desc" selected>Year: Newer to Older</option>
+                            }
+                            else
+                            {
+                                <option value="year_desc">Year: Newer to Older</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary">Apply Filters</button>
+                        <a asp-action="Index" asp-controller="Cars" class="btn btn-secondary">Clear</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- RIGHT SIDE -->
+        <div class="col-md-9 col-lg-10">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h2 class="mb-4 fw-bold text-primary">Vehicle Inventory</h2>
+                <a class="btn btn-success" asp-action="Create">+ Add Vehicle</a>
+            </div>
+
+            <div class="row">
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var item in Model)
+                    {
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card h-100 shadow-sm">
+
+                                <a asp-action="Details" asp-route-id="@item.Id" style="text-decoration:none; color:inherit;">
+                                    <img src="@(string.IsNullOrEmpty(item.Image)
+                                        ? "https://placehold.co/600x400?text=No+Image"
+                                         : item.Image)"
+                                         class="card-img-top"
+                                         alt="Vehicle Image"
+                                         style="height:220px; object-fit:cover;" />
+                                </a>
+
+                                <div class="card-body">
+                                    <h5 class="card-title fw-bold">@item.Make @item.Model</h5>
+
+                                    <span class="badge bg-dark mb-2">@item.Year</span>
+
+                                    <p class="fw-bold text-success">@item.Price.ToString("C")</p>
+
+                                    <p class="text-muted mb-1">VIN: @item.VIN</p>
+
+                                    <div class="d-flex justify-content-between mt-3">
+                                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">View</a>
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">Edit</a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="col-12">
+                        <div class="alert alert-warning">
+                            No vehicles found.
+                        </div>
+                    </div>
+                }
+            </div>
+
+            @if (ViewBag.TotalPages != null && ViewBag.TotalPages > 1)
+            {
+                <nav class="mt-4 d-flex justify-content-center">
+                    <ul class="pagination">
+
+                        @if (ViewBag.CurrentPage > 1)
+                        {
+                            <li class="page-item">
+                                <a class="page-link"
+                                   asp-action="Index"
+                                   asp-controller="Cars"
+                                   asp-route-page="@(ViewBag.CurrentPage - 1)"
+                                   asp-route-search="@search"
+                                   asp-route-selectedYear="@selectedYear"
+                                   asp-route-selectedMake="@selectedMake"
+                                   asp-route-selectedModel="@selectedModel"
+                                   asp-route-sortOrder="@sortOrder">«</a>
+                            </li>
+                        }
+
+                        @{
+                            int startPage = Math.Max(1, ViewBag.CurrentPage - 2);
+                            int endPage = Math.Min(ViewBag.TotalPages, ViewBag.CurrentPage + 2);
+                        }
+
+                        @for (int i = startPage; i <= endPage; i++)
+                        {
+                            <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                                <a class="page-link"
+                                   asp-action="Index"
+                                   asp-controller="Cars"
+                                   asp-route-page="@i"
+                                   asp-route-search="@search"
+                                   asp-route-selectedYear="@selectedYear"
+                                   asp-route-selectedMake="@selectedMake"
+                                   asp-route-selectedModel="@selectedModel"
+                                   asp-route-sortOrder="@sortOrder">@i</a>
+                            </li>
+                        }
+
+                        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                        {
+                            <li class="page-item">
+                                <a class="page-link"
+                                   asp-action="Index"
+                                   asp-controller="Cars"
+                                   asp-route-page="@(ViewBag.CurrentPage + 1)"
+                                   asp-route-search="@search"
+                                   asp-route-selectedYear="@selectedYear"
+                                   asp-route-selectedMake="@selectedMake"
+                                   asp-route-selectedModel="@selectedModel"
+                                   asp-route-sortOrder="@sortOrder">»</a>
+                            </li>
+                        }
+
+                    </ul>
+                </nav>
+            }
+        </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const makeDropdown = document.getElementById("makeDropdown");
+            const modelDropdown = document.getElementById("modelDropdown");
+
+            if (makeDropdown && modelDropdown) {
+                makeDropdown.addEventListener("change", function () {
+                    const selectedMake = this.value;
+
+                    modelDropdown.innerHTML = '<option value="">All Models</option>';
+
+                    if (selectedMake === "") {
+                        return;
+                    }
+
+                    fetch('/Cars/GetModelsByMake?make=' + encodeURIComponent(selectedMake))
+                        .then(response => response.json())
+                        .then(data => {
+                            data.forEach(function (carModel) {
+                                const option = document.createElement("option");
+                                option.value = carModel;
+                                option.text = carModel;
+                                modelDropdown.appendChild(option);
+                            });
+                        })
+                        .catch(error => {
+                            console.error("Error loading models:", error);
+                        });
+                });
+            }
+        });
+    </script>
+}

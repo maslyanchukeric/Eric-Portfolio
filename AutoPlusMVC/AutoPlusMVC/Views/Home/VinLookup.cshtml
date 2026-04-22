@@ -1,0 +1,31 @@
+﻿@model AutoPlusMVC.Models.VinResult
+
+@{
+    ViewData["Title"] = "VIN Lookup";
+}
+
+<div class="container mt-4">
+
+    <h2>VIN Lookup</h2>
+
+    <form method="post">
+        <div class="mb-3">
+            <input type="text" name="vin" class="form-control" placeholder="Enter 17-digit VIN" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+
+    @if (Model != null)
+    {
+        <div class="card mt-4 p-3 shadow-sm">
+            <h4>@Model.ModelYear @Model.Make @Model.Model</h4>
+
+            <p><strong>VIN:</strong> @Model.VIN</p>
+            <p><strong>Vehicle Type:</strong> @Model.VehicleType</p>
+            <p><strong>Body:</strong> @Model.BodyClass</p>
+            <p><strong>Engine:</strong> @Model.EngineCylinders cylinders</p>
+            <p><strong>Fuel:</strong> @Model.FuelTypePrimary</p>
+        </div>
+    }
+</div>

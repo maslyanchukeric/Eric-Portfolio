@@ -1,0 +1,41 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AutoPlus</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+
+<body style="
+    height:100vh;
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(to right, #141e30, #243b55);
+    ">
+
+    <div style="
+        background: rgba(0,0,0,0.7);
+        padding:40px;
+        border-radius:12px;
+        text-align:center;
+        color:white;
+        width:300px;
+        ">
+
+        <h1 class="mb-3">AutoPlus</h1>
+        <p class="mb-4">Welcome</p>
+
+        <div class="d-grid gap-3">
+            <a asp-controller="Account" asp-action="Login" class="btn btn-success">Login</a>
+            <a asp-controller="Account" asp-action="Register" class="btn btn-primary">Register</a>
+        </div>
+
+    </div>
+
+</body>
+</html>
