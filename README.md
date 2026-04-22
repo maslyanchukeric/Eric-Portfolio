@@ -1,42 +1,44 @@
-Eric Maslyanchuk - Portfolio
+# Eric Maslyanchuk - Portfolio
 
-About Me
-Computer Science student with experience in C++, Python, Java, C#, SQL, Microsoft Access, and web development.
+## 👨‍💻 About Me
+Computer Science student with experience in:
+- C++
+- Python
+- Java
+- C#
+- SQL Server
+- Microsoft Access
+- Web Development (HTML, CSS, JavaScript)
 
 Currently learning and improving:
 - ASP.NET Razor Pages
 - ASP.NET MVC
-- API integration
+- API Integration
 
-I am also using Udemy courses and hands-on projects to build stronger real-world development skills.
+I use Udemy courses and hands-on projects to build real-world development skills.
 
-AutoPlus MVC Project
+---
+
+## 🚗 AutoPlus MVC Project
 A web-based vehicle inventory application built with ASP.NET MVC.
 
-Features:
+### Features:
 - Search vehicles by Make, Model, or VIN
 - Sort vehicles by price and year
-- Add, edit, and delete vehicle records
+- Add, edit, and delete vehicle records (CRUD)
 - Display vehicle images
-- Practice MVC structure and database connectivity
+- Uses MVC architecture with database integration
 
-Technologies Used:
+### Technologies Used:
 - C#
 - ASP.NET MVC
 - SQL Server
-- HTML
-- CSS
-- JavaScript
-- Python
-- C++
-- Java
+- HTML / CSS / JavaScript
 
-Goals
-- Improve my MVC skills
-- Get better at backend development
-- Learn how to use APIs in real projects
-- Continue building a stronger programming portfolio
+---
 
-
-
-
+## 🎯 Goals
+- Improve MVC and backend development skills
+- Learn real-world API integration
+- Build stronger full-stack projects
+- Grow a professional programming portfolio
