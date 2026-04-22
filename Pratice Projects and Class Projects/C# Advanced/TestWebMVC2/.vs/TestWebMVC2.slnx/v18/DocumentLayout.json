@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABE9BA-5673-C529-8854-DCB6B0E0F550}|..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj|c:\\users\\masly\\source\\repos\\cpt206.sqlserver\\datacontext.sqlserver\\datacontext.sqlserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\testwebmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\testwebmvc2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\views\\home\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\views\\home\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\views\\home\\productscostmorethan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\views\\home\\productscostmorethan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\models\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\models\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|c:\\users\\masly\\source\\repos\\testwebmvc2\\testwebmvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1B020CE-E045-C89A-4A93-5DDBAEC7FF26}|TestWebMVC2\\TestWebMVC2.csproj|solutionrelative:testwebmvc2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABE9BA-5673-C529-8854-DCB6B0E0F550}|..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj|c:\\users\\masly\\source\\repos\\cpt206.sqlserver\\datacontext.sqlserver\\northwindcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Program.cs",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Program.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Program.cs",
+              "RelativeToolTip": "TestWebMVC2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:10:32.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestWebMVC2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:15:12.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.SqlServer",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "RelativeDocumentMoniker": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "RelativeToolTip": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\DataContext.SqlServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T21:52:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestWebMVC2.csproj",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\TestWebMVC2.csproj",
+              "RelativeDocumentMoniker": "TestWebMVC2\\TestWebMVC2.csproj",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\TestWebMVC2.csproj",
+              "RelativeToolTip": "TestWebMVC2\\TestWebMVC2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T21:44:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\Customers.cshtml",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Views\\Home\\Customers.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\Customers.cshtml",
+              "RelativeToolTip": "TestWebMVC2\\Views\\Home\\Customers.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T15:39:08.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Models\\Thing.cs",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Models\\Thing.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Models\\Thing.cs",
+              "RelativeToolTip": "TestWebMVC2\\Models\\Thing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:42:52.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestWebMVC2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwGEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T18:45:06.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NorthwindContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "RelativeToolTip": "..\\Cpt206.SqlServer\\DataContext.SqlServer\\NorthwindContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:02:00.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\appsettings.json",
+              "RelativeDocumentMoniker": "TestWebMVC2\\appsettings.json",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\appsettings.json",
+              "RelativeToolTip": "TestWebMVC2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-21T17:41:30.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsCostMoreThan.cshtml",
+              "DocumentMoniker": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\ProductsCostMoreThan.cshtml",
+              "RelativeDocumentMoniker": "TestWebMVC2\\Views\\Home\\ProductsCostMoreThan.cshtml",
+              "ToolTip": "C:\\Users\\masly\\source\\repos\\TestWebMVC2\\TestWebMVC2\\Views\\Home\\ProductsCostMoreThan.cshtml",
+              "RelativeToolTip": "TestWebMVC2\\Views\\Home\\ProductsCostMoreThan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T23:00:13.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

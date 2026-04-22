@@ -1,0 +1,26 @@
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\bin\Debug\Phonelist.mdf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\bin\Debug\Phonelist_log.ldf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\bin\Debug\Phone List Database.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\bin\Debug\Phone List Database.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\bin\Debug\Phone List Database.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.csproj.AssemblyReference.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone_List_Database.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone List Database.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Phone List Database\obj\Debug\Phone_List_Database.Form1.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\bin\Debug\Phonelist.mdf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\bin\Debug\Phonelist_log.ldf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\bin\Debug\Phone List Database.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\bin\Debug\Phone List Database.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\bin\Debug\Phone List Database.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.csproj.AssemblyReference.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone_List_Database.Form1.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone_List_Database.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\In Class Labs Eric Maslyanchuk\Phone List Database\obj\Debug\Phone List Database.pdb

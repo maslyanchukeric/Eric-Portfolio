@@ -1,2 +1,0 @@
-C:\Users\masly\source\repos\Razor.Employees\Razor.Employees\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\masly\source\repos\Razor.Employees\Razor.Employees\obj\Debug\net10.0\staticwebassets.build.json
