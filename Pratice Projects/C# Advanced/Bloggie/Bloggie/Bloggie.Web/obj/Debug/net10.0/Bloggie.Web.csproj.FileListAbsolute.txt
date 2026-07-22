@@ -1,0 +1,453 @@
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.staticwebassets.runtime.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.staticwebassets.endpoints.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.exe
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.deps.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.runtimeconfig.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.pdb
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Humanizer.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.csproj.AssemblyReference.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.AssemblyInfoInputs.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.AssemblyInfo.cs
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.RazorAssemblyInfo.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.RazorAssemblyInfo.cs
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\bundle\Bloggie.Web.styles.css
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\0gxgyqbo56-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cbczz59q2t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\25xpuuyhpf-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\4g29si27nd-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\dvedyt4z2x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\tp8j2km56e-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\rnd88n4350-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\w9sh1vjzlf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ksicowvkda-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\i0cynkf8li-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cdya3wpic0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cubdh6ypgg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\t5p2o6qc4h-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n0kn89902z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qefws8o6o8-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\caa5scgg3v-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\5ueh3stytd-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9g6qq6b5v6-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qzd4a4jgmn-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\a778h40vb5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\49sctdq46w-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\atkuexirkg-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vpm494zqjv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\r0vpkx11q1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\8ey31rsjfr-{0}-06098lyss8-06098lyss8.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\pg61cu27hg-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ekjqy6806e-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\gla0tcimrc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\3cag3zfc38-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\q2w0s65tmy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\avtiziqwcx-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\w1knx6t5aw-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\uqyuhp86iq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\oivz6fj0jk-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n8oqrgohs9-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\x0gusxx1uu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\pg4mzwvlj2-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\gazjqyr5h2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\5xc14nr15k-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\m80mrygeea-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vm79ia1oge-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cye1snpmyg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\1ncfiguz1f-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\z2bmts68p0-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n4jo5ui7d2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ea0nles2pm-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qqq84penco-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\kpymzj3zhi-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\sly9isdnn8-{0}-356vix0kms-356vix0kms.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qgwakykoab-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9hhmxje46i-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\4o281wr5f7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9kewawjwsl-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ibo9vp2bd0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qg0cjh2a3h-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\axe90xsrca-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\zq4j1w831s-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\11itmtbnnf-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\e5sg5cbb5q-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vqn5o7zjzu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\sag9av76dy-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\1d8ryvzmsy-{0}-0h3z7qw51z-0h3z7qw51z.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ostq35omnd-{0}-0h3z7qw51z-0h3z7qw51z.gz
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie..735B77A1.Up2Date
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\refint\Bloggie.Web.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.pdb
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.genruntimeconfig.cache
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\ref\Bloggie.Web.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\CloudinaryDotNet.dll
+C:\Users\masly\source\repos\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\y0lg1a4g3f-{0}-xf6r5q4xcs-xf6r5q4xcs.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\appsettings.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.staticwebassets.endpoints.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.staticwebassets.runtime.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.deps.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.runtimeconfig.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Bloggie.Web.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\CloudinaryDotNet.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Humanizer.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.csproj.AssemblyReference.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.AssemblyInfoInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.AssemblyInfo.cs
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.RazorAssemblyInfo.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.RazorAssemblyInfo.cs
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\bundle\Bloggie.Web.styles.css
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\y0lg1a4g3f-{0}-xf6r5q4xcs-xf6r5q4xcs.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\0gxgyqbo56-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cbczz59q2t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\25xpuuyhpf-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\4g29si27nd-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\dvedyt4z2x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\tp8j2km56e-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\rnd88n4350-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\w9sh1vjzlf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ksicowvkda-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\i0cynkf8li-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cdya3wpic0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cubdh6ypgg-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\t5p2o6qc4h-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n0kn89902z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qefws8o6o8-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\caa5scgg3v-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\5ueh3stytd-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9g6qq6b5v6-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qzd4a4jgmn-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\a778h40vb5-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\49sctdq46w-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\atkuexirkg-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vpm494zqjv-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\r0vpkx11q1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\8ey31rsjfr-{0}-06098lyss8-06098lyss8.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\pg61cu27hg-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ekjqy6806e-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\gla0tcimrc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\3cag3zfc38-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\q2w0s65tmy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\avtiziqwcx-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\w1knx6t5aw-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\uqyuhp86iq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\oivz6fj0jk-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n8oqrgohs9-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\x0gusxx1uu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\pg4mzwvlj2-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\gazjqyr5h2-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\5xc14nr15k-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\m80mrygeea-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vm79ia1oge-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\cye1snpmyg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\1ncfiguz1f-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\z2bmts68p0-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\n4jo5ui7d2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ea0nles2pm-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qqq84penco-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\kpymzj3zhi-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\sly9isdnn8-{0}-356vix0kms-356vix0kms.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qgwakykoab-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9hhmxje46i-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\4o281wr5f7-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\9kewawjwsl-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ibo9vp2bd0-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\qg0cjh2a3h-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\axe90xsrca-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\zq4j1w831s-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\11itmtbnnf-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\e5sg5cbb5q-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\vqn5o7zjzu-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\sag9av76dy-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\1d8ryvzmsy-{0}-0h3z7qw51z-0h3z7qw51z.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\compressed\ostq35omnd-{0}-0h3z7qw51z-0h3z7qw51z.gz
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie..735B77A1.Up2Date
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\refint\Bloggie.Web.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\Bloggie.Web.genruntimeconfig.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\obj\Debug\net10.0\ref\Bloggie.Web.dll
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\C# Advanced Practice\Bloggie\Bloggie\Bloggie.Web\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

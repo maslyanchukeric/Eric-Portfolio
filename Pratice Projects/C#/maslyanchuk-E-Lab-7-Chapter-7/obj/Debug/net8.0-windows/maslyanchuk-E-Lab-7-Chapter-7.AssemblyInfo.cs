@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maslyanchuk-E-Lab-7-Chapter-7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22e082cf442f0004c6d4d296af24c87a515c571")]
 [assembly: System.Reflection.AssemblyProductAttribute("maslyanchuk-E-Lab-7-Chapter-7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maslyanchuk-E-Lab-7-Chapter-7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

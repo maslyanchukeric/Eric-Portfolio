@@ -1,0 +1,92 @@
+using Bloggie.Web.Models.ViewModels;
+using Bloggie.Web.Repositories;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.ComponentModel.DataAnnotations;
+
+namespace Bloggie.Web.Pages.Admin.Users
+{
+    [Authorize(Roles = "Admin")]
+    public class IndexModel : PageModel
+    {
+        private readonly IUserRepository userRepository;
+
+        public List<User> Users { get; set; }
+
+        [BindProperty]
+        public AddUser AddUserRequest { get; set; }
+
+        [BindProperty]
+        public Guid SelectedUserId { get; set; }
+
+        public IndexModel(IUserRepository userRepository)
+        {
+            this.userRepository = userRepository;
+        }
+
+        public async Task<IActionResult> OnGet()
+        {
+            await GetUsers();
+
+            return Page();
+        }
+
+        public async Task<IActionResult> OnPost()
+        {
+            if(ModelState.IsValid)
+            {
+                var identityUser = new IdentityUser
+                {
+                    UserName = AddUserRequest.UserName,
+                    Email = AddUserRequest.Email
+
+                };
+
+                var roles = new List<string> { "User" };
+
+                if (AddUserRequest.AdminCheckBox)
+                {
+                    roles.Add("Admin");
+                }
+
+                var result = await userRepository.Add(identityUser, AddUserRequest.Password, roles);
+
+                if (result)
+                {
+                    return RedirectToPage("/Admin/Users/Index");
+                }
+
+                return Page();
+            }
+
+            await GetUsers();
+            return Page();
+        }
+
+        public async Task<IActionResult> OnPostDelete()
+        {
+            await userRepository.Delete(SelectedUserId);
+
+            return RedirectToPage("/admin/users/index");
+        }
+
+        private async Task GetUsers()
+        {
+            var users = await userRepository.GetAll(); //get the list of users from the database except the super admin user
+
+            Users = new List<User>(); //initialize the list of users
+
+            foreach (var user in users)
+            {
+                Users.Add(new Models.ViewModels.User()
+                {
+                    Id = Guid.Parse(user.Id),
+                    UserName = user.UserName,
+                    Email = user.Email
+                });
+            }
+        }
+    }
+}

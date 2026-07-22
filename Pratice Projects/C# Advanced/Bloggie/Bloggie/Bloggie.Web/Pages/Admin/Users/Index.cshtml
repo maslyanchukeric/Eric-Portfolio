@@ -1,0 +1,216 @@
+﻿@page
+@model Bloggie.Web.Pages.Admin.Users.IndexModel
+@{
+}
+
+<!-- HEADER -->
+<div class="bg-secondary bg-opacity-10 py-2 mb-5">
+    <div class="container">
+        <h1>Users</h1>
+    </div>
+</div>
+
+<!-- BODY -->
+<div>
+    <div class="container">
+
+        <!-- Add User Button -->
+        <div class="mb-3 d-flex justify-content-end">
+            <button type="button"
+                    class="btn btn-dark"
+                    data-bs-toggle="modal"
+                    data-bs-target="#addUserModal">
+                Add User
+            </button>
+        </div>
+
+        <!-- DELETE FORM -->
+        <form method="post" asp-page-handler="Delete" id="deleteUserForm">
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Username</th>
+                        <th>Email</th>
+                        <th></th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var user in Model.Users)
+                    {
+                        <tr>
+                            <td>@user.Id</td>
+                            <td>@user.UserName</td>
+                            <td>@user.Email</td>
+
+                            <td>
+                                <a class="btn btn-danger user-delete-btn"
+                                       data-user-id="@user.Id">
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+
+            <input type="hidden"
+                   asp-for="SelectedUserId"
+                   id="selectedUserId" />
+
+        </form>
+
+    </div>
+</div>
+
+<!-- ADD USER MODAL -->
+<form method="post">
+
+    <div class="modal fade"
+         id="addUserModal"
+         tabindex="-1"
+         aria-labelledby="exampleModalLabel"
+         aria-hidden="true">
+
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <!-- Header -->
+                <div class="modal-header">
+
+                    <h1 class="modal-title fs-5"
+                        id="exampleModalLabel">
+                        Add User
+                    </h1>
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="modal"
+                            aria-label="Close">
+                    </button>
+
+                </div>
+
+                <!-- Body -->
+                <div class="modal-body">
+
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Username
+                        </label>
+
+                        <input type="text"
+                               class="form-control"
+                               asp-for="AddUserRequest.UserName" required/>
+                               <span class="text-danger" asp-validation-for="AddUserRequest.UserName"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Email
+                        </label>
+
+                        <input type="email"
+                               class="form-control"
+                               asp-for="AddUserRequest.Email" required/>
+                        <span class="text-danger" asp-validation-for="AddUserRequest.Email"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">
+                            Password
+                        </label>
+
+                        <input type="password"
+                               class="form-control"
+                               asp-for="AddUserRequest.Password" required minlength="6"/>
+                        <span class="text-danger" asp-validation-for="AddUserRequest.Password"></span>
+                    </div>
+
+                    <!-- User Role -->
+                    <div class="form-check mb-2">
+
+                        <input class="form-check-input"
+                               type="checkbox"
+                               value="User"
+                               checked
+                               disabled />
+
+                        <label class="form-check-label">
+                            User Role
+                        </label>
+
+                    </div>
+
+                    <!-- Admin Role -->
+                    @if (User.IsInRole("SuperAdmin"))
+                    {
+                        <div class="form-check">
+
+                            <input class="form-check-input"
+                                   type="checkbox"
+                                   asp-for="AddUserRequest.AdminCheckBox" />
+
+                            <label class="form-check-label">
+                                Admin Role
+                            </label>
+
+                        </div>
+                    }
+
+                </div>
+
+                <!-- Footer -->
+                <div class="modal-footer">
+
+                    <button type="button"
+                            class="btn btn-secondary"
+                            data-bs-dismiss="modal">
+                        Close
+                    </button>
+
+                    <button type="submit"
+                            class="btn btn-dark">
+                        Save changes
+                    </button>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</form>
+
+@section Scripts {
+
+    <script>
+
+        const userDeleteElements = document.querySelectorAll('.user-delete-btn');
+
+        const selectedUserIdElement =
+            document.getElementById('selectedUserId');
+
+        const deleteUserFormElement =
+            document.getElementById('deleteUserForm');
+
+        userDeleteElements.forEach((element) => {
+
+            element.addEventListener('click', function () {
+
+                const userId = element.dataset.userId;
+
+                selectedUserIdElement.value = userId;
+
+                deleteUserFormElement.submit();
+
+            });
+
+        });
+
+    </script>
+}

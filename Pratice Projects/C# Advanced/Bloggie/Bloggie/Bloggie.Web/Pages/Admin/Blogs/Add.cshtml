@@ -1,0 +1,135 @@
+﻿@page
+@model Bloggie.Web.Pages.Admin.Blogs.AddModel
+@{
+}
+
+<!-- HEADER: just shows the page title -->
+<div class="bg-secondary bg-opacity-10 py-2 mb-5">
+    <div class="container">
+        <h1>Add Blog Post</h1>
+    </div>
+</div>
+
+<!-- MAIN FORM: everything inside here gets sent when user clicks submit -->
+<div>
+    <div class="container">
+        <form method="post">
+
+            <!-- USER TYPES BLOG TITLE -->
+            <div class="mb-3">
+                <label for="heading" class="form-label">Heading</label>
+                <!-- input box for blog heading -->
+                <input type="text" required class="form-control" id="heading" asp-for="AddBlogPostRequest.Heading">
+                <span class="text-danger" asp-validation-for="AddBlogPostRequest.Heading"></span>
+            </div>
+
+            <!-- USER TYPES PAGE TITLE (for browser/tab/SEO) -->
+            <div class="mb-3">
+                <label for="pagetitle" class="form-label">Page Title</label>
+                    <input type="text" required class="form-control" id="pagetitle" asp-for="AddBlogPostRequest.PageTitle">
+                <span class="text-danger" asp-validation-for="AddBlogPostRequest.PageTitle"></span>
+            </div>
+
+            <!-- MAIN BLOG CONTENT (bigger text area) -->
+            <div class="mb-3">
+                <label for="content" class="form-label">Content</label>
+                <!-- textarea = multi-line input -->
+                        <textarea class="form-control" required id="content" rows="3" asp-for="AddBlogPostRequest.Content"></textarea>
+                <span class="text-danger" asp-validation-for="AddBlogPostRequest.Content"></span>
+            </div>
+
+            <!-- SHORT SUMMARY OF BLOG -->
+            <div class="mb-3">
+                <label for="shortDescription" class="form-label">Short Description</label>
+                        <input type="text" required class="form-control" required id="shortDescription" asp-for="AddBlogPostRequest.ShortDescription">
+                <span class="text-danger" asp-validation-for="AddBlogPostRequest.ShortDescription"></span>
+            </div>
+
+            <!--Feature Image to pick for uploading-->
+            <div clasd="mb-3">
+                    <label for="featuredImageUpload" class="form-label">Feature Image Upload</label>
+                            <input type="file" required id="featuredImageUpload" asp-for="FeaturedImage" />
+                            <img id="featuredImageDisplay" style="display:none; width:300px; margin-top:10px;" />
+            </div>
+
+            <!-- IMAGE URL FOR BLOG -->
+            <div class="mb-3">
+                <label for="featureImageUrl" class="form-label">Feature Image Url</label>
+                            <input type="text" require class="form-control" id="featureImageUrl" asp-for="AddBlogPostRequest.FeaturedImageUrl">
+                <span class="text-danger" asp-validation-for="AddBlogPostRequest.FeaturedImageUrl"></span>
+
+            <!-- URL SLUG (example: my-first-blog) -->
+            <div class="mb-3">
+                <label for="urlHandel" class="form-label">Url Handle</label>
+                                <input type="text" required class="form-control" id="urlHandel" asp-for="AddBlogPostRequest.UrlHandle">
+                    <span class="text-danger" asp-validation-for="AddBlogPostRequest.UrlHandle"></span>
+            </div>
+
+            <!-- DATE WHEN BLOG IS PUBLISHED -->
+            <div class="mb-3">
+                <label for="publishedDate" class="form-label">Published Date</label>
+                                    <input type="date" required class="form-control" id="publishedDate" asp-for="AddBlogPostRequest.PublishedDate">
+                    <span class="text-danger" asp-validation-for="AddBlogPostRequest.PublishedDate"></span>
+            </div>
+
+            <!-- AUTHOR NAME -->
+            <div class="mb-3">
+                <label for="author" class="form-label">Author</label>
+                                        <input type="text" required class="form-control" id="author" asp-for="AddBlogPostRequest.Author">
+                    <span class="text-danger" asp-validation-for="AddBlogPostRequest.Author"></span>
+            </div>
+
+            <div class="mb-3">
+                <label for="" class="form-label">Tags (comma separated)</label>
+               <input type="text" required class="form-control" id="tags" asp-for="Tags"/>
+                    <span class="text-danger" asp-validation-for="Tags"></span>
+
+            </div>
+
+            <!-- CHECKBOX: SHOW OR HIDE BLOG -->
+            <div class="form-check mb-3">
+                                            <input class="form-check-input" type="checkbox" id="isVisible" asp-for="AddBlogPostRequest.Visible">
+                <label class="form-check-label" for="isVisible">
+                    Is Visible
+                </label>
+            </div>
+
+            <!-- SUBMIT BUTTON: sends all form data to backend -->
+            <div class="mb-3">
+                <button class="btn btn-primary" type="submit">Submit</button>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        var editor = new FroalaEditor('#content', {
+            imageUploadURL: '/api/images'
+        });
+
+        const featuredImageUploadElement = document.getElementById('featuredImageUpload');
+        const featuredImageUrl = document.getElementById('featureImageUrl');
+        const featuredImageDisplay = document.getElementById('featuredImageDisplay');
+
+        async function uploadFeatureImage(e) {
+            let data = new FormData();
+            data.append('file', e.target.files[0]);
+
+            const response = await fetch('/api/images', {
+                method: 'POST',
+                body: data
+            });
+
+            const result = await response.json();
+
+            featuredImageUrl.value = result.link;
+
+            featuredImageDisplay.src = result.link;
+            featuredImageDisplay.style.display = 'block';
+        }
+
+        featuredImageUploadElement.addEventListener('change', uploadFeatureImage);
+    </script>
+}
