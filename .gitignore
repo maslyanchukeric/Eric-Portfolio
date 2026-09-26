@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# C++ build output
+Debug/
+Release/
+x64/
+x86/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Visual Studio generated files
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.idb
+*.ipch
+*.db
+*.opendb
+
+# Java compiled files
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
